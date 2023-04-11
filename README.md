@@ -1,4 +1,4 @@
-### Hi there 👋
+### iOS Developer working on different stuff in my freetime
 
 <!--
 **bennyyy999/bennyyy999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
