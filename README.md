@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img
-  align="center"
-  src="[https://github-readme-tech-stack.vercel.app/api/cards](https://github-readme-tech-stack.vercel.app/api/cards?lineHeight=15&lineCount=1&theme=2077&line1=apollographql,apollographql,311C87;bluetooth,bluetooth,0082FC;confluence,confluence,172B4D;css3,css3,1572B6;fastlane,fastlane,00F200;figma,figma,F24E1E;gitlab,gitlab,FC6D26;html5,html5,E34F26;ios,ios,000000;iterm2,iterm2,000000;javascript,javascript,F7DF1E;jira,jira,0052CC;miro,miro,050038;nextdotjs,nextdotjs,000000;nfc,nfc,002E5F;prettier,prettier,F7B93E;prisma,prisma,2D3748;react,react,61DAFB;sketch,sketch,F7B500;sonarcloud,sonarcloud,F3702A;sonarqube,sonarqube,4E9BCD;supabase,supabase,3ECF8E;swift,swift,F05138;tailwindcss,tailwindcss,06B6D4;typescript,typescript,3178C6;vercel,vercel,000000;visualstudiocode,visualstudiocode,007ACC;xcode,xcode,147EFB;yarn,yarn,2C8EBB;ruby,ruby,CC342D;)"
-  alt="My Tech Stack"
-/>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineHeight=15&lineCount=1&theme=2077&line1=apollographql,apollographql,311C87;bluetooth,bluetooth,0082FC;confluence,confluence,172B4D;css3,css3,1572B6;fastlane,fastlane,00F200;figma,figma,F24E1E;gitlab,gitlab,FC6D26;html5,html5,E34F26;ios,ios,000000;iterm2,iterm2,000000;javascript,javascript,F7DF1E;jira,jira,0052CC;miro,miro,050038;nextdotjs,nextdotjs,000000;nfc,nfc,002E5F;prettier,prettier,F7B93E;prisma,prisma,2D3748;react,react,61DAFB;sketch,sketch,F7B500;sonarcloud,sonarcloud,F3702A;sonarqube,sonarqube,4E9BCD;supabase,supabase,3ECF8E;swift,swift,F05138;tailwindcss,tailwindcss,06B6D4;typescript,typescript,3178C6;vercel,vercel,000000;visualstudiocode,visualstudiocode,007ACC;xcode,xcode,147EFB;yarn,yarn,2C8EBB;ruby,ruby,CC342D;" alt="My Tech Stack" />
